@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i8kwJKc4JkmLRgXUT44xEQCrWmxdrs3UmjTjGE0CJgkpfs87IpCYLEEPKi29gVkTwmcbmqhFo0RMLXYlWhxStw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lando\\Downloads\\ShibaGT_Template_VS\\Starzzz Menu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lando\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lando\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
